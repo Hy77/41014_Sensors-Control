@@ -8,9 +8,9 @@ Environment: Ubuntu 20.04 <br> Platform: ROS noetic (Python3) <br> Language: Pyt
 ### How to setup
 Download the 'camera_d435_haiyang' folder(ros package), and put all '.py' files into the "'username'/catkin_ws/src/camera_d435_haiyang/src/RGB_D_VisualServing" folder.
 
-'catkin_ws' is my own workspace
-'camera_d435_haiyang' is my ros package
-'RGB_D_VisualSeroving' is my Python project
+'catkin_ws' is my own workspace <br>
+'camera_d435_haiyang' is my ros package <br>
+'RGB_D_VisualSeroving' is my Python project <br>
 
 Note: you may change the ros package name to whatever you want.
 
