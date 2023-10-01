@@ -12,7 +12,7 @@ Download the 'camera_d435_haiyang' folder(ros package), and put all '.py' files 
 'camera_d435_haiyang' is my ros package <br>
 'RGB_D_VisualSeroving' is my Python project <br>
 
-Note: you may change the ros package name to whatever you want.
+Note: you may change the ros package name to whatever you want but make sure you keep other files like package.xml & CMakeLists.txt are up to date.
 
 ### How to launch
 1. roslaunch realsense2_camera rs_camera.launch
