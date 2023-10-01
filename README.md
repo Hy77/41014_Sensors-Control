@@ -5,4 +5,11 @@
 ### Environment and device
 Environment: Ubuntu 20.04 <br> Platform: ROS noetic (Python3) <br> Language: Python3 <br> Device: Intel Realsense D435 (RGB-D camera)
 
+### How to setup
+Download the 'camera_d435_haiyang' folder(ros package), and put all '.py' files into the "'username'/catkin_ws/src/camera_d435_haiyang/src" folder.
+Note: you may change the ros package name to whatever you want.
+
+### How to launch
+1. roslaunch realsense2_camera rs_camera.launch
+2. rosrun camera_d435_haiyang (filename.py) eg: chess_board_VS.py
 
