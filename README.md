@@ -20,8 +20,8 @@ To set up the environment for running the ROS package, follow these detailed ste
 
 3. **Project Files Arrangement:**
    - Within the `camera_d435_haiyang` package, find the `src` folder.
-   - Now, navigate to the "RGB_D_VisualServing" project within the `src` directory of `camera_d435_haiyang`.
-   - Transfer all the `.py` script files you've downloaded into this "RGB_D_VisualServing" folder.
+   - Now, navigate to the `RGB_D_VisualServing` project within the `src` directory of `camera_d435_haiyang`.
+   - Transfer all the `.py` script files you've downloaded into this `RGB_D_VisualServing` folder.
 
 4. **ROS Package Renaming and Configuration (Optional):**
    - You have the option to rename the `camera_d435_haiyang` package to a name of your preference. However, if you decide to do so, there are a couple of important files you must update accordingly:
