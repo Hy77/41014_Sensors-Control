@@ -5,6 +5,22 @@
 ### Environment and device
 Environment: Ubuntu 20.04 <br> Platform: ROS noetic (Python3) <br> Language: Python3 <br> Device: Intel Realsense D435 (RGB-D camera)
 
+### Individual contribution to the code
+**Percentage of code contribution:** <br>
+Haiyang: `65%`; Anh: `25%`; Harley:`10%`
+
+**Haiyang:**
+1. Git repo setup & generated ALL `README.md` file
+2. Coke can detection and visual serving (Both based on RGB & D image)
+3. Chessboard detection
+4. Chessboard visual servoing based on Depth image, combined and debugged Anh & Harley's work.
+   
+**Anh:**
+1. Chessboard visual seroving coding
+
+**Harley:**
+1. Chessboard visual seroving based on Depth image
+
 ### Setup Instructions
 
 To set up the environment for running the ROS package, follow these detailed steps:
@@ -44,15 +60,3 @@ To set up the environment for running the ROS package, follow these detailed ste
 ### How to launch
 1. `roslaunch realsense2_camera rs_camera.launch`
 2. `rosrun camera_d435_haiyang chess_board_VS.py`
-
-### Individual contribution to the code
-Haiyang:
-1. Git repo setup & generated `README.md` file
-2. Coke can detection and visual seroving
-3. Chess board detection
-   
-Anh:
-1. Chess board visual seroving coding
-
-Harley:
-1. Chess board visual seroving testing/debugging
