@@ -32,7 +32,7 @@ Haiyang: `65%`; Anh: `25%`; Harley:`10%`
 https://www.youtube.com/watch?v=ktgxdIqQAZs 
 <br>
 **Project Presentation Link:**
-https://www.youtube.com/watch?v=ktgxdIqQAZs
+https://www.youtube.com/watch?v=BxSLnMaUv-8
 <br>
 ### Setup Instructions
 
