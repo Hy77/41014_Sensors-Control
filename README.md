@@ -21,6 +21,13 @@ Haiyang: `65%`; Anh: `25%`; Harley:`10%`
 **Harley:**
 1. Chessboard visual seroving based on Depth image
 
+**Group Work:** <br>
+`chess_board_VS.py` with visual servoing based on `Depth image`
+
+**Individual Work by Haiyang:** <br>
+`coke_detect_basedOn_color.py` with visual servoing based on `RGB image` <br> 
+`detect_coke_can_with_depth_info.py` without visual seroving, detection ONLY but implemented with `Depth image` <br>
+
 ### Setup Instructions
 
 To set up the environment for running the ROS package, follow these detailed steps:
