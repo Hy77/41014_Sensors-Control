@@ -28,6 +28,12 @@ Haiyang: `65%`; Anh: `25%`; Harley:`10%`
 `coke_detect_basedOn_color.py` with visual servoing based on `RGB image` <br> 
 `detect_coke_can_with_depth_info.py` without visual seroving, detection ONLY but implemented with `Depth image` <br>
 
+**Project Demo Link:**
+https://www.youtube.com/watch?v=ktgxdIqQAZs 
+<br>
+**Project Presentation Link:**
+https://www.youtube.com/watch?v=ktgxdIqQAZs
+<br>
 ### Setup Instructions
 
 To set up the environment for running the ROS package, follow these detailed steps:
